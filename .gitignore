@@ -1,2 +1,3 @@
-# Ignore the Reviews csv file
-Reviews.csv
+# Ignore csv and png files
+*.csv
+*.png
